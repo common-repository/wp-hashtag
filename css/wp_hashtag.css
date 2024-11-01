@@ -1,0 +1,10 @@
+.hashtag{
+  text-decoration:none;
+  color:#8c468c !important;
+  background:#678f3c;
+  }
+.hashtag:hover {
+  text-decoration:none;
+  color:#595959 !important;
+  background:#ff2600;
+  }
